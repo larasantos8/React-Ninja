@@ -14,5 +14,5 @@ new WebpackDevServer(webpack(config), {
     return console.log(err)
   }
 
-  console.log('Listening on http://localhost:3000')
+  //console.log('Listening on http://localhost:3000')
 })
